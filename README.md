@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punithsai2003
 - 👀 I’m interested in Data science, Machine Learning, Python 
-- 🌱 I’m currently learning Machine learning, Python, Sql, Tableau, Hadoop, Spark, Deep learning
+- 🌱 I’m currently learning Machine learning, Python, Sql, Power BI, Deep learning, Large language Models
 - 💞️ I’m looking to collaborate on all topics related to my interests.
 - 📫 You can reach me on my email id punithsaipalakurthi@gmail.com
 
